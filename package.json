@@ -1,0 +1,31 @@
+{
+  "name": "page-source",
+  "version": "1.0.0",
+  "description": "page-source.js is the best tool to show your current page source can use this script to analyze any website source codes",
+  "main": "page-source.js",
+  "scripts": {
+    "test": "\"echo \\\"no test specified\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psuresh21/page-source.git"
+  },
+  "keywords": [
+    "inspect",
+    "javascript",
+    "page",
+    "source",
+    "browser",
+    "inspection",
+    "consnd",
+    "development",
+    "tool",
+    "cli"
+  ],
+  "author": "Suresh P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psuresh21/page-source/issues"
+  },
+  "homepage": "https://github.com/psuresh21/page-source#readme"
+}
