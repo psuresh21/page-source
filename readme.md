@@ -26,5 +26,5 @@ https://user-images.githubusercontent.com/91040447/146507150-b009ae5a-bbdd-4953-
 Javascript
 
 # Copyright & License
-© 2021 Suresh. P 
+© 2021 Suresh Pandiyan 
  Code released under MIT License
